@@ -1,0 +1,49 @@
+@import" https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.container_12{
+    background: white;
+    width: 1365px;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2px;
+   
+ 
+}   
+
+.container_12 .grid_4 {
+    background: #0C082D;
+    margin: 0px;
+    
+    margin-top: 0px;
+}
+
+.grid_4 p {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.grid_4 li a {
+display: block;
+padding: 25px 21px;
+  border-bottom: 0.1px solid white;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+.container_12 .grid_12{
+     width: 1048px;
+     height: 40px;
+     margin-top: 0px;
+     margin-left: -3px;
+    background: #0C082D;
+    text-align: right;
+}
+.grid_12 h1 {
+  margin-right: 3px;
+}
+.grid_12 h1 a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+} 

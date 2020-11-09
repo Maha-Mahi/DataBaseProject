@@ -1,0 +1,57 @@
+.container_12 {
+	background-color:white;
+	height: default;
+	
+	
+}
+.container_12 .grid_12 {
+	background: url(chefimg2.jpg) no-repeat;
+	
+}
+.grid_8 img{
+	width: 540px;
+	height: 640px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: #696969;
+}
+.grid_4 {
+
+	height: 620px;
+	margin-top: 40px;
+	
+	
+	
+}
+.grid_4 .logo{
+height :320px;
+width: 320px;
+
+margin-left: auto;
+margin-right:auto;
+}
+.about {
+	margin-top: 52%;
+	text-align: center;
+	font-size: 18px;
+}
+
+
+.text {
+	text-align: center;
+}
+
+.text_center  p {
+margin-top:-20px;
+color: black;
+	font-family:  MV Boli;
+	font-size: 20px;
+	
+	color:	#DC143C;
+	color :#FFA07A;
+}
+.text_center{
+	height:150px;
+	width:600px;
+	
+}

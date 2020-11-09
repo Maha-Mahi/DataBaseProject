@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+ 
+    <title>Home page</title>
+ 
+    <link rel="stylesheet" type="text/css" href="reset.css" />
+    <link rel="stylesheet" type="text/css" href="960_12_col.css" />
+    <link rel="stylesheet" type="text/css" href="text.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    
+
+<style>
+ @import" https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+    
+body{
+    font-family: sans-serif;
+        margin: 0%;
+        padding : 0%;
+        background: url(32.jpg) no-repeat;
+        background-size: cover;
+}
+
+.btn {
+        cursor: pointer;
+        background-color:Transparent;
+        overflow:hidden;
+    }
+
+
+</style>
+
+    
+</head>
+<body>
+<div class="wrap container_12" >
+<form action="feedback.php" method="POST">
+<header>    
+    <h1></h1>
+
+</header>
+
+<div class="grid_10" >
+    
+        
+        <div class="grid_3">
+            <p>Your Feedback is our reward!:)</p>
+        </div>
+
+ <div class="fname">
+
+        <label for="fname">First Name:</label>
+    <input type="text" name="firstname" placeholder="Your name..">
+ </div>
+
+ <label class="label1"> Comments: </label>
+<div class="cmnts">       
+        <textarea type="text"  placeholder="comments here" ROWS="10" COLS="42" name="comments" >
+            
+        </textarea>
+
+</div>
+<div class="sub">
+<input  type="submit" value="Submit" name="sbmit"  >
+
+</form>
+</div> 
+</div>
+
+</div>
+</body>
+</html>
